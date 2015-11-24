@@ -1,0 +1,3 @@
+this is a git
+you can initialize this repository with code from a subversion
+thank you		
